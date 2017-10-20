@@ -139,7 +139,7 @@
         new app.Button({
           bClassName: 'app-button1',
           bText: '原',
-          bHref: 'https://github.com/kiang/factory_map'
+          bHref: 'https://github.com/newpowerparty/factory_map'
         }),
         new app.Button({
           bClassName: 'app-button2',
